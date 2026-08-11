@@ -11,7 +11,7 @@ This project analyzes finance performance, budget allocation, and spending patte
 
 ## 🛠️ Tools & Skills Used
 - **Python** - Data validation, cleaning and transformation 
-- **Excel** – Data cleaning, pivot tables, initial exploration
+- **Excel** – Financial analysis, pivot tables, initial exploration
 - **SQL** – Data extraction, aggregation, and analysis queries
 - **Power BI** – Interactive dashboard and data visualization
 
