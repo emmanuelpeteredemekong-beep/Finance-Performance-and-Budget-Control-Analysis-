@@ -10,7 +10,7 @@ This project analyzes finance performance, budget allocation, and spending patte
 - **Size:** 150,000 financial records
 
 ## 🛠️ Tools & Skills Used
-- **Python** - Data validation and standardization 
+- **Python** - Data validation, cleaning and transformation 
 - **Excel** – Data cleaning, pivot tables, initial exploration
 - **SQL** – Data extraction, aggregation, and analysis queries
 - **Power BI** – Interactive dashboard and data visualization
