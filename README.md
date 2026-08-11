@@ -1,11 +1,16 @@
 # Finance-Performance-and-Budget-Control-Analysis-
-Finance Performance and Budget Control Analysis using SQL, Excel and Power bi including business insight and recommendations 
+Finance Performance and Budget Control Analysis using Python, Excel, SQL and Power bi including business insight and recommendations 
 # Finance Performance and Budget Control Analysis
 
 ## 📌 Project Overview
-This project analyzes finance performance, budget allocation, and spending patterns across departments to support better budget control and audit tracking. Using Excel, SQL, and Power BI, I explored monthly spending trends, budget variance by account, and audit completion status to help stakeholders make data-driven decisions.
+This project analyzes finance performance, budget allocation, and spending patterns across departments to support better budget control and audit tracking. Using Python, Excel, SQL, and Power BI, I explored monthly spending trends, budget variance by account, and audit completion status to help stakeholders make data-driven decisions.
+
+## 📂 Data Source
+- **Source:** Synthetic dataset generated using Python for the purpose of this analysis
+- **Size:** 150,000 financial records
 
 ## 🛠️ Tools & Skills Used
+- **Python** - Data validation and standardization 
 - **Excel** – Data cleaning, pivot tables, initial exploration
 - **SQL** – Data extraction, aggregation, and analysis queries
 - **Power BI** – Interactive dashboard and data visualization
